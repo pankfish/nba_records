@@ -1,0 +1,212 @@
+[
+  {
+    "position": "1",
+    "name": "Milwaukee Bucks",
+    "conference": "Eastern",
+    "wins": "9",
+    "losses": "4"
+  },
+  {
+    "position": "2",
+    "name": "Boston Celtics",
+    "conference": "Eastern",
+    "wins": "8",
+    "losses": "4"
+  },
+  {
+    "position": "3",
+    "name": "Philadelphia 76ers",
+    "conference": "Eastern",
+    "wins": "9",
+    "losses": "5"
+  },
+  {
+    "position": "4",
+    "name": "Indiana Pacers",
+    "conference": "Eastern",
+    "wins": "8",
+    "losses": "5"
+  },
+  {
+    "position": "5",
+    "name": "Brooklyn Nets",
+    "conference": "Eastern",
+    "wins": "8",
+    "losses": "6"
+  },
+  {
+    "position": "6",
+    "name": "New York Knicks",
+    "conference": "Eastern",
+    "wins": "7",
+    "losses": "8"
+  },
+  {
+    "position": "7",
+    "name": "Cleveland Cavaliers",
+    "conference": "Eastern",
+    "wins": "6",
+    "losses": "7"
+  },
+  {
+    "position": "8",
+    "name": "Orlando Magic",
+    "conference": "Eastern",
+    "wins": "6",
+    "losses": "8"
+  },
+  {
+    "position": "9",
+    "name": "Charlotte Hornets",
+    "conference": "Eastern",
+    "wins": "6",
+    "losses": "8"
+  },
+  {
+    "position": "10",
+    "name": "Atlanta Hawks",
+    "conference": "Eastern",
+    "wins": "5",
+    "losses": "7"
+  },
+  {
+    "position": "11",
+    "name": "Chicago Bulls",
+    "conference": "Eastern",
+    "wins": "5",
+    "losses": "8"
+  },
+  {
+    "position": "12",
+    "name": "Miami Heat",
+    "conference": "Eastern",
+    "wins": "4",
+    "losses": "7"
+  },
+  {
+    "position": "13",
+    "name": "Toronto Raptors",
+    "conference": "Eastern",
+    "wins": "4",
+    "losses": "8"
+  },
+  {
+    "position": "14",
+    "name": "Washington Wizards",
+    "conference": "Eastern",
+    "wins": "3",
+    "losses": "8"
+  },
+  {
+    "position": "15",
+    "name": "Detroit Pistons",
+    "conference": "Eastern",
+    "wins": "3",
+    "losses": "9"
+  },
+  {
+    "position": "1",
+    "name": "Los Angeles Lakers",
+    "conference": "Western",
+    "wins": "11",
+    "losses": "3"
+  },
+  {
+    "position": "2",
+    "name": "LA Clippers",
+    "conference": "Western",
+    "wins": "10",
+    "losses": "4"
+  },
+  {
+    "position": "3",
+    "name": "Utah Jazz",
+    "conference": "Western",
+    "wins": "9",
+    "losses": "4"
+  },
+  {
+    "position": "4",
+    "name": "Phoenix Suns",
+    "conference": "Western",
+    "wins": "7",
+    "losses": "4"
+  },
+  {
+    "position": "5",
+    "name": "Portland Trail Blazers",
+    "conference": "Western",
+    "wins": "8",
+    "losses": "5"
+  },
+  {
+    "position": "6",
+    "name": "San Antonio Spurs",
+    "conference": "Western",
+    "wins": "7",
+    "losses": "6"
+  },
+  {
+    "position": "7",
+    "name": "Dallas Mavericks",
+    "conference": "Western",
+    "wins": "6",
+    "losses": "6"
+  },
+  {
+    "position": "8",
+    "name": "Golden State Warriors",
+    "conference": "Western",
+    "wins": "6",
+    "losses": "6"
+  },
+  {
+    "position": "9",
+    "name": "Memphis Grizzlies",
+    "conference": "Western",
+    "wins": "6",
+    "losses": "6"
+  },
+  {
+    "position": "10",
+    "name": "Oklahoma City Thunder",
+    "conference": "Western",
+    "wins": "6",
+    "losses": "6"
+  },
+  {
+    "position": "11",
+    "name": "Denver Nuggets",
+    "conference": "Western",
+    "wins": "6",
+    "losses": "7"
+  },
+  {
+    "position": "12",
+    "name": "New Orleans Pelicans",
+    "conference": "Western",
+    "wins": "5",
+    "losses": "7"
+  },
+  {
+    "position": "13",
+    "name": "Houston Rockets",
+    "conference": "Western",
+    "wins": "4",
+    "losses": "7"
+  },
+  {
+    "position": "14",
+    "name": "Sacramento Kings",
+    "conference": "Western",
+    "wins": "5",
+    "losses": "9"
+  },
+  {
+    "position": "15",
+    "name": "Minnesota Timberwolves",
+    "conference": "Western",
+    "wins": "3",
+    "losses": "8"
+  }
+]

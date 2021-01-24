@@ -1,0 +1,31 @@
+position,name,conference,wins,losses
+1,Milwaukee Bucks,Eastern,9,4
+2,Boston Celtics,Eastern,8,4
+3,Philadelphia 76ers,Eastern,9,5
+4,Indiana Pacers,Eastern,8,5
+5,Brooklyn Nets,Eastern,8,6
+6,New York Knicks,Eastern,7,8
+7,Cleveland Cavaliers,Eastern,6,7
+8,Orlando Magic,Eastern,6,8
+9,Charlotte Hornets,Eastern,6,8
+10,Atlanta Hawks,Eastern,5,7
+11,Chicago Bulls,Eastern,5,8
+12,Miami Heat,Eastern,4,7
+13,Toronto Raptors,Eastern,4,8
+14,Washington Wizards,Eastern,3,8
+15,Detroit Pistons,Eastern,3,9
+1,Los Angeles Lakers,Western,11,3
+2,LA Clippers,Western,10,4
+3,Utah Jazz,Western,9,4
+4,Phoenix Suns,Western,7,4
+5,Portland Trail Blazers,Western,8,5
+6,San Antonio Spurs,Western,7,6
+7,Dallas Mavericks,Western,6,6
+8,Golden State Warriors,Western,6,6
+9,Memphis Grizzlies,Western,6,6
+10,Oklahoma City Thunder,Western,6,6
+11,Denver Nuggets,Western,6,7
+12,New Orleans Pelicans,Western,5,7
+13,Houston Rockets,Western,4,7
+14,Sacramento Kings,Western,5,9
+15,Minnesota Timberwolves,Western,3,8
